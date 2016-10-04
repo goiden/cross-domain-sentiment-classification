@@ -1,2 +1,2 @@
 # cross-domain-sentiment-classification
-Name: Xingchang Huang
+AAAI2017.pdf is a supplement material of AAAI submission
